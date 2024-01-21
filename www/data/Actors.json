@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_6","characterIndex":0,"characterName":"Player1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":4,"characterName":"Player1","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":99,"name":"特雷澤","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_7","characterIndex":2,"characterName":"Player1","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":99,"name":"111","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_4","characterIndex":5,"characterName":"Player1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Player1","traits":[],"initialLevel":1,"maxLevel":99,"name":"222","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"333","nickname":"","note":"","profile":""}
+]
